@@ -1,2 +1,2 @@
 example text for reverting
-second line for erasing
++second line for erasing+
